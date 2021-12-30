@@ -10,7 +10,7 @@ class PatternSwitcher {
 };
 
 void PatternSwitcher::runPattern() {
-int8_t patternCounter = 1;
+int8_t patternCounter = 0;
 switch (patternCounter) {
 
     case 0:
